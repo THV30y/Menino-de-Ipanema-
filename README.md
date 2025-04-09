@@ -38,7 +38,7 @@
 <body>
     <div class="container">
         <h1>Um Pedido de Namoro Especial</h1>
-        <p>Olá Coelhinho ❤️,</p>
+        <p>Olá amor ❤️,</p>
         <p>Quero dizer que você ilumina minha vida como ninguém mais.</p>
         <p>Você aceita namorar comigo?</p>
         <p class="heart" onclick="mostrarResposta()">❤️</p>
